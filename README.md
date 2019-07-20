@@ -1,1 +1,0 @@
-# School-Manager-5.0
